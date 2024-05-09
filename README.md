@@ -55,7 +55,7 @@ Hi, I'm Parth Modi, a passionate software developer currently pursuing a Master 
 
 ## 📧 Contact Me
 
-Feel free to reach out to me via [![Email](https://img.shields.io/badge/Outlook-%230077B5.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:parthmodi@dal.ca)
- or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pmodi1080/)
+[![Email](https://img.shields.io/badge/parthmodi@dal.ca-%230077B5.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:parthmodi@dal.ca)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pmodi1080/)
 
 
