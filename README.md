@@ -32,11 +32,13 @@ Hi, I'm Parth Modi, a passionate software developer currently pursuing a Master 
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-%23161616.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## Cloud
+## Cloud and DevOps 
 ![Docker](https://img.shields.io/badge/docker-1C67ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=1C67ED)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-EA4235?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
