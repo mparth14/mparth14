@@ -6,6 +6,9 @@
 
 Hi, I'm Parth Modi, a passionate software developer currently pursuing a Master of Applied Computer Science at Dalhousie University. I'm dedicated to continuous learning and thrive in dynamic environments where I can leverage my technical skills to solve complex problems.
 
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=mparth14&style=for-the-badge" alt="Profile views" />
+</p>
 ---
 
 ## 🚀 Technical Skills
@@ -52,6 +55,12 @@ Hi, I'm Parth Modi, a passionate software developer currently pursuing a Master 
 ## 🏆 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mparth14&show_icons=true&hide_border=true\&rank_icon=github" />
+</p>
 
 ---
 
